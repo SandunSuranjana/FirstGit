@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>login fuck ddd</title>
+	<title>login ddd</title>
 </head>
 <body>
 
